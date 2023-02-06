@@ -5,17 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75ab7e00-c456-476e-a0aa-5a381d2f9e77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciceXpGold.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../git_tutorial_akouvivien" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +54,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/hp/Documents/atos/DI_Bootcamp/Week7/Jour1/ExerciceXpGold"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
